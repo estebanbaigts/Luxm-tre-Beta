@@ -18,9 +18,9 @@ Brightness measurement is important in many fields such as lighting, photography
 ## How to use it ?
 
 1. **Installing dependencies:** Make sure you have Python installed on your system. Then install OpenCV using the following command:
-**pip install opencv-python**
+## pip install opencv-python
 2. **Running the program:** Run the `luxometre.py` script using Python:
-**python luxometre.py**
+## python luxometre.py
 3. **User interface:** A window will open displaying the image captured by your webcam. The average brightness of the image as well as the camera quality will be displayed in real time on the image. You can move your camera to observe changes in brightness and quality.
 4. **Video Recording:** If you want to record a video, press 'q' key to start recording, and press 'q' again to stop recording.
 
@@ -54,9 +54,9 @@ La mesure de la luminosité est importante dans de nombreux domaines tels que l'
 ## Comment l'utiliser ?
 
 1. **Installation des dépendances :** Assurez-vous d'avoir Python installé sur votre système. Installez ensuite OpenCV en utilisant la commande suivante :
-**pip install opencv-python*
+## pip install opencv-python
 2. **Exécution du programme :** Exécutez le script `luxometre.py` en utilisant Python :
-**python luxometre.py**
+## python luxometre.py
 3. **Interface utilisateur :** Une fenêtre s'ouvrira affichant l'image capturée par votre webcam. La luminosité moyenne de l'image ainsi que la qualité de la caméra seront affichées en temps réel sur l'image. Vous pouvez déplacer votre caméra pour observer les changements de luminosité et de qualité.
 4. **Enregistrement vidéo :** Si vous souhaitez enregistrer une vidéo, appuyez sur la touche 'q' pour commencer l'enregistrement, et appuyez à nouveau sur 'q' pour arrêter l'enregistrement.
 
