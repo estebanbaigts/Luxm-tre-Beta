@@ -1,4 +1,4 @@
-##Luxmètre avec Python et OpenCV
+##Luxmètre avec Python et OpenCV##
 
 Ce projet propose un luxmètre utilisant Python avec la bibliothèque OpenCV pour mesurer la luminosité ambiante en temps réel à l'aide de la webcam de votre ordinateur. Il fournit des informations sur la luminosité moyenne de l'image capturée ainsi que sur la qualité de la caméra en pourcentage sur une échelle de 100. De plus, il permet d'enregistrer une vidéo tout en affichant la luminosité moyenne et les FPS (images par seconde) dans la vidéo enregistrée.
 
